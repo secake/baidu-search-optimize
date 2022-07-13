@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         baidu search|百度搜索页优化|去广告|隐藏无用内容|页面美化|搜索扩展
+// @name         baidu search|百度广告|百度搜索页优化|去广告|隐藏无用内容|页面美化|搜索扩展
 // @namespace    com.github.secake.baidusearch
 // @version      1.0
 // @license      MIT
-// @description  for www.baidu.com|百度搜索页优化|去广告|隐藏无用内容|页面美化|搜索扩展
+// @description  for www.baidu.com|百度广告|百度搜索页优化|去广告|隐藏无用内容|页面美化|搜索扩展
 // @author       secake
 // @match        https://www.baidu.com/s*
 // @grant        GM_registerMenuCommand
