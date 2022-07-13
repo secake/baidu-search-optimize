@@ -1,5 +1,8 @@
 # 🎉 百度搜索页优化  
-去广告，隐藏无用内容，显示跳转链接，页面美化，搜索扩展  
+油猴插件，去广告，隐藏无用内容，显示跳转链接，页面美化，搜索扩展  
+
+## 油猴安装
+[https://www.tampermonkey.net/](https://www.tampermonkey.net/)
 
 ## 脚本配置
 ![脚本配置](https://github.com/secake/baidu-search-optimize/blob/main/images/script_options.png?raw=true)
