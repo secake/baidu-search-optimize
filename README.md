@@ -1,6 +1,9 @@
 # 🎉 百度搜索页优化  
 去广告，隐藏无用内容，显示跳转链接，页面美化，搜索扩展  
 
+## 脚本配置
+![脚本配置](https://github.com/secake/baidu-search-optimize/blob/main/images/script_options.png?raw=true)
+
 ## ✨ 隐藏广告  
 ### 隐藏前
 ![隐藏前](https://github.com/secake/baidu-search-optimize/blob/main/images/before_ad.png?raw=true)
